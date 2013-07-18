@@ -49,6 +49,7 @@ gem 'figaro'
 gem 'pg'
 gem 'rolify'
 gem 'simple_form', '>= 3.0.0.rc'
+gem 'protected_attributes'
 
 group :assets do
   gem 'therubyracer', :platform=>:ruby, :require=>"v8"

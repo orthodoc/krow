@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Krow::Application.config.secret_key_base = 'ee1d5fa1e16effa751229de0aac33890b9992ec22ce327c5789d403e07302ccc01aed67ea0ae99509f90b02f636473973e3b3dba3167a6e4bd6454f8c7e14a7a'
+Krow::Application.config.secret_key_base = '8dec79144f0e0a7d056d850762584335368726b258eed95a237810d1ffbc8d0383750477a0e8d579a1f7da1a3a25e6fa5c54abe86d218c43dca263af6e47b517'
